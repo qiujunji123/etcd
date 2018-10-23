@@ -1,2 +1,2 @@
 from nginx
-run sleep 1
+run sleep 2
